@@ -1,3 +1,8 @@
+//The program reads F1.txt and takes the data from there such as name, number of hobbies, street address, index and city
+//The program reqires to enter the hobbies from the keyboard.
+// If the number of hobbies is more than 10 then this line of data is not considered.
+//Eventually, program outputs the valid entries into the F2.txt with the previously entered hobbies.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
