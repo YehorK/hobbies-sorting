@@ -1,0 +1,11 @@
+Oleg 1 Vene 27 Tallinn
+Yuriy 2 Ehitajate 1967 Tallinn
+Nina 0 Vilde 1234 Parnu
+Maxim 3 Karde 97 Tartu
+Alexander 2 Oun 98 Helsinki
+Maria 1 Mustamae 1434 Stokholm
+Anna 7 hihi 1111 Moscow
+Kalev 4 Vilde 12 Riga
+Sandro 5 Liimi 14 Keila
+Gena 10 Estonia 123456789 Tallinn
+Ali 20 Pikk 3464 Narva

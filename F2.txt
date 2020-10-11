@@ -1,0 +1,54 @@
+Name: Oleg 
+Nummber of hobbies: 1
+Street-index: Vene-27 
+City: Tallinn 
+Hoobies:reading 
+
+Name: Yuriy 
+Nummber of hobbies: 2
+Street-index: Ehitajate-1967 
+City: Tallinn 
+Hoobies:writing running 
+
+Name: Maxim 
+Nummber of hobbies: 3
+Street-index: Karde-97 
+City: Tartu 
+Hoobies:jogging programming analyzing 
+
+Name: Alexander 
+Nummber of hobbies: 2
+Street-index: Oun-98 
+City: Helsinki 
+Hoobies:gaming helping 
+
+Name: Maria 
+Nummber of hobbies: 1
+Street-index: Mustamae-1434 
+City: Stokholm 
+Hoobies:cooking 
+
+Name: Anna 
+Nummber of hobbies: 7
+Street-index: hihi-1111 
+City: Moscow 
+Hoobies:cleaning walking photography relaxing exploring traveling french 
+
+Name: Kalev 
+Nummber of hobbies: 4
+Street-index: Vilde-12 
+City: Riga 
+Hoobies:culture languages driving cooking 
+
+Name: Sandro 
+Nummber of hobbies: 5
+Street-index: Liimi-14 
+City: Keila 
+Hoobies:reading sleeping studying teaching movies 
+
+Name: Gena 
+Nummber of hobbies: 10
+Street-index: Estonia-123456789 
+City: Tallinn 
+Hoobies:abc abc sport qwerty qwerty qwerty qwerty qwerty qwerty qwerty 
+
